@@ -1,2 +1,2 @@
 # Hiperblog
-Un blog normie para aprender git y github
+I've used this repo to learn git and GitHub
